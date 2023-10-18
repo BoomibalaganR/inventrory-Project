@@ -146,7 +146,7 @@ end Class
                    totalProduct = console.Readline()  
                    
                    redim purchaseId(totalProduct-1)
-                   redim quantity(totalProduct-1)   
+                   redim quantity(totalProduct-1)
                    
                    
                   for  i = 0 to totalproduct-1  
